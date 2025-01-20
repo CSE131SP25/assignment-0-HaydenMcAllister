@@ -42,7 +42,7 @@ public class RobotInstructions  {
 		robot.forward(150);
 		robot.turnLeft(20);
 		robot.forward(168);
-		//turning around because it looks cooler
+		//turning around because it looks cooler and I don't have to do any math to figure out my exact position
 		robot.turnRight(180);
 		robot.forward(168);
 		robot.turnRight(20);
@@ -67,7 +67,7 @@ public class RobotInstructions  {
 		robot.forward(150);
 		robot.turnRight(20);
 		robot.forward(168);
-		//line
+		//line through middle
 		robot.turnRight(135);
 		robot.forward(450);
 		
